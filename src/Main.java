@@ -10,6 +10,7 @@ public class Main {
         f.setLayout(new FlowLayout());
         f.setSize(500,500);
         f.setVisible(true);
+        f.setSize(7 , 55);
 
     }
 }
